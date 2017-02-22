@@ -1,3 +1,3 @@
 # Movie_Search
 
-movie search using OMDb API <br>
+movie search using OMDb API
